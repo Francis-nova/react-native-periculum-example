@@ -8,7 +8,7 @@ The library gives you credit score information for your customer. No stress :)
 
 &nbsp;
 
-##Installation
+## Installation
 Clone the repo to your computer
 
 Use the package manager of your choice to install the node_modules for this project.
@@ -22,7 +22,7 @@ or
 yarn install
 ```
 
-##Test
+## Run the app
 ```bash
 npx react-native run-android
 ```
