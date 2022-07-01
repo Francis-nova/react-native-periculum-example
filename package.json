@@ -15,7 +15,7 @@
     "react-native-device-info": "^8.4.8",
     "react-native-get-location": "^2.2.1",
     "react-native-get-sms-android": "^2.1.0",
-    "react-native-periculum": "^1.0.5",
+    "react-native-periculum": "^1.1.0",
     "react-native-permissions": "^3.2.0"
   },
   "devDependencies": {
